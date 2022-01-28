@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker Hack (Remix from Gaming Gurus)
 // @namespace    https://krunker-gurus.github.io
-// @icon         https://y9x.github.io/webpack/libs/gg.gif
+// @icon         https://i.imgur.com/B8nNXVV.png
 // @author       Krunker Gurus
 // @version      1.23
 // @match        https://krunker.io/*
