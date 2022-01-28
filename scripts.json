@@ -1,0 +1,28 @@
+{
+	"loader": {
+		"url": "",
+		"version": 1.22
+	},
+	"client": {
+		"url": "https://github.com/6ct/client/releases",
+		"version": 0.1
+	},
+	"lext": {
+		"url": "https://github.com/y9x/lext/archive/refs/tags/v0.03.zip",
+		"version": 0.03
+	},
+	"scripts": {
+		"Sploit": {
+			"version": 1.0965,
+			"url": ""
+		},
+		"Junker": {
+			"version": 1.0965,
+			"url": ""
+		}
+		"Dogeware": {
+			"version": 1.0965,
+			"url": ""
+		}
+	}
+}
